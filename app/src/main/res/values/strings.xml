@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kalkulator Sederhana</string>
+    <string name="secondHint">Masukkan nilai kedua</string>
+    <string name="firstHint">Masukkan nilai pertama</string>
+    <string name="btnCalculationString">Calculate</string>
+    <string name="resultString">RESULT</string>
+    <string name="strAddition">+</string>
+    <string name="strSubtraction">-</string>
+    <string name="strMultiplication">X</string>
+    <string name="strDivision">/</string>
+</resources>
